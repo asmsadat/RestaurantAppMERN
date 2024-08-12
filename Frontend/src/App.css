@@ -336,6 +336,7 @@ nav svg {
   max-width: 1500px;
   min-width: 1500px;
   display: flex;
+  margin: 70px;
 }
 .about .container .banner {
   flex: 1;
